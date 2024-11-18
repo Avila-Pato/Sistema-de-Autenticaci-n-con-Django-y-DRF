@@ -34,7 +34,6 @@ Este repositorio contiene un sistema de autenticación robusto basado en Django 
 
 ## Configuraciones de Email
 - **SMTP**: Configurado para enviar correos electrónicos usando un servidor SMTP.
-- **Variables de Entorno**: Se recomienda configurar `EMAIL_HOST_USER` y `EMAIL_HOST_PASSWORD` con credenciales seguras en un archivo de entorno (.env).
 
 ## Instalación y Configuración
 1. **Clonar el repositorio**:
